@@ -257,7 +257,7 @@
                                 <div class="col-md-12 hidden-print" style="padding-top: 5px;">
                                     <a href="{{ route('clone/hardware', $asset->id) }}" class="btn btn-sm btn-info btn-block btn-social hidden-print">
                                         <x-icon type="assets" />
-                                        {{ trans('admin/hardware/general.clone') }}
+                                        {{ trans('admin/hardware/general.print_label') }}
                                     </a>
                                 </div>
 
